@@ -1,5 +1,7 @@
 <?php 
 
+require_once ("./src/utilities/loadEnv.php");
+
 class Connection {
     private string $host;
     private string $port;
