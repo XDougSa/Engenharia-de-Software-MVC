@@ -1,10 +1,12 @@
-# Curso de Engenharia de Software com MVC
+# Conecte-se: desenvolvimento web para inclusão digital
 
-## Universidade Federal do Tocantins - Campus Palmas
+## Minicurso de Engenharia de Software com MVC
 
-**Data**: 18/12/2024  
-**Orientador**: Edeilson Milhomem  
-**Alunos**: João Gabriel Alves de Souza, Douglas Ribeiro de Sá, Larissa Mitie, Fernanda, Iago  
+### Universidade Federal do Tocantins - Campus Palmas
+
+#### **Data**: 18/12/2024  
+#### **Orientador**: Edeilson Milhomem  
+#### **Alunos**: João Gabriel Alves de Souza, Douglas Ribeiro de Sá, Larissa Mitie, Fernanda, Iago  
 
 ---
 
@@ -29,7 +31,7 @@
 
 ## Resumo
 
-O presente minicurso de engenharia de software visa servir de um suporte para o aprendizado de todas as ferramentas necessárias para realizar uma pequena aplicação que trabalhará os conceitos de HTML, CSS, JavaScript, PHP, SQL e MVC em doze aulas.  
+O presente minicurso de engenharia de software visa servir de um suporte para o aprendizado na matéria de engenharia de software no curso de ciência da computação. Aqui veremos a aplicação de todas as ferramentas necessárias para realizar uma pequena aplicação que trabalhará os conceitos de HTML, CSS, JavaScript, PHP, SQL e MVC em doze aulas.  
 Ao longo deste curso, todas as ferramentas acima citadas serão trabalhadas, explicando alguns pontos que serão úteis ao aprendizado de cada pessoa.  
 Por fim, quem realizá-lo estará mais bem capacitado a criar aplicações com a arquitetura MVC.
 
@@ -37,7 +39,7 @@ Por fim, quem realizá-lo estará mais bem capacitado a criar aplicações com a
 
 ## Abstract
 
-This software engineering mini-course aims to support learning all the tools needed to create a small application that will cover the concepts of HTML, CSS, JavaScript, PHP, SQL, and MVC in twelve classes.  
+This software engineering mini-course aims to support learning software engeneering in the computer science course. Here we will watch all the tools needed to create a small application that will cover the concepts of HTML, CSS, JavaScript, PHP, SQL, and MVC in twelve classes.  
 Throughout this course, all the tools mentioned above will be covered, explaining some points that will be useful to each person's learning.  
 Finally, those who complete it will be better able to create applications with the MVC architecture.
 
@@ -45,40 +47,40 @@ Finally, those who complete it will be better able to create applications with t
 
 ## Aulas
 
-### Aula 1 - Introdução Geral: Panorama e Objetivos do Curso
+### [Aula 1 - Introdução Geral: Panorama e Objetivos do Curso](https://www.youtube.com/watch?v=vd1XtgypvpE)
 Nesta aula, será apresentada uma visão geral do minicurso de engenharia de software com foco na arquitetura MVC. Vamos discutir os principais objetivos do curso, que incluem a compreensão dos fundamentos da arquitetura MVC e a aplicação desses conceitos no desenvolvimento de projetos reais.
 
-### Aula 2 - Configurações Essenciais: Preparando o Ambiente de Trabalho
+### [Aula 2 - Configurações Essenciais: Preparando o Ambiente de Trabalho](https://www.youtube.com/watch?v=N22vkM_hrew)
 O aluno aprenderá a instalar o Visual Studio Code, o PHP e o PostgreSQL, preparando o ambiente de desenvolvimento.
 
-### Aula 3 - Explorando o HTML: Fundamentos e Estrutura
+### [Aula 3 - Explorando o HTML: Fundamentos e Estrutura](https://www.youtube.com/watch?v=TPfYDU3ao4Y)
 Exploração dos fundamentos do HTML, incluindo elementos e estrutura básica de uma página web.
 
-### Aula 4 - Introdução ao CSS: O Que é e Como Utilizá-lo
+### [Aula 4 - Introdução ao CSS: O Que é e Como Utilizá-lo](https://www.youtube.com/watch?v=FosqU8Ymf-E)
 Introdução aos conceitos fundamentais do CSS, como seletores e propriedades, para personalizar páginas web.
 
-### Aula 5 - Introdução ao JavaScript: Tornando suas Páginas Dinâmicas
+### [Aula 5 - Introdução ao JavaScript: Tornando suas Páginas Dinâmicas](https://www.youtube.com/watch?v=bnWFMD2KQ8E)
 Introdução ao JavaScript, com foco em sua aplicação para tornar páginas web interativas.
 
-### Aula 6 - Explorando PHP: Fundamentos e Primeiros Passos
+### [Aula 6 - Explorando PHP: Fundamentos e Primeiros Passos](https://www.youtube.com/watch?v=DfJzIO_OYtc)
 Fundamentos básicos do PHP, incluindo variáveis, operadores e scripts iniciais.
 
-### Aula 7 - Configuração do Git: Iniciando o Controle de Versão
+### [Aula 7 - Configuração do Git: Iniciando o Controle de Versão](https://www.youtube.com/watch?v=WgEAWOw26zE)
 Configuração e uso inicial do Git para controle de versão de projetos.
 
-### Aula 8 - Iniciando seu Projeto: Estruturação e Preparação
+### [Aula 8 - Iniciando seu Projeto: Estruturação e Preparação](https://www.youtube.com/watch?v=owkaEXaBCls)
 Organização inicial do projeto, uso de variáveis de ambiente e configurações de segurança.
 
-### Aula 9 - Iniciando com Banco de Dados: Como Configurar e Conectar
+### [Aula 9 - Iniciando com Banco de Dados: Como Configurar e Conectar](https://www.youtube.com/watch?v=O_OWWgVHtCs)
 Configuração do PostgreSQL e integração com o padrão MVC.
 
-### Aula 10 - Autenticação com JWT: Como Criar um Sistema de Login Seguro
+### [Aula 10 - Autenticação com JWT: Como Criar um Sistema de Login Seguro](https://www.youtube.com/watch?v=Ri422xLsx_4)
 Criação de um sistema de login seguro usando tokens JWT.
 
-### Aula 11 - Criando a Tela de Cadastro: Estrutura e Implementação
+### [Aula 11 - Criando a Tela de Cadastro: Estrutura e Implementação](https://www.youtube.com/watch?v=WZdxNB0SOVY)
 Desenvolvimento de uma interface funcional para cadastro de usuários.
 
-### Aula 12 - Implementação de Dashboard: Consolidando Dados em uma Visualização Única
+### [Aula 12 - Implementação de Dashboard: Consolidando Dados em uma Visualização Única](https://www.youtube.com/watch?v=geVW0jFhv9I)
 Componentização, integração de JavaScript e operações CRUD na criação de um painel de controle.
 
 ---
