@@ -57,7 +57,7 @@ O presente projeto contempla um treinamento online sobre HTML, CSS, JavaScript e
 
 ## Aulas
 
-### <a href = "https://www.youtube.com/watch?v=vd1XtgypvpE" target = "_blank"> Aula 1 - Introdução Geral: Panorama e Objetivos do Curso </a>
+### [Aula 1 - Introdução Geral: Panorama e Objetivos do Curso](https://www.youtube.com/watch?v=vd1XtgypvpE)
 #### Apresentadora: Fernanda
 Nesta aula, será apresentada uma visão geral do minicurso de engenharia desoftware com foco na arquitetura MVC. Vamos discutir os principais objetivos do
 curso, que incluem a compreensão dos fundamentos da arquitetura MVC e a aplicação desses conceitos no desenvolvimento de projetos reais. Serão abordados também os tópicos que serão explorados em cada aula, o cronograma, e os recursos disponíveis. A introdução servirá para alinhar as expectativas dos alunos e preparar o terreno para a aprendizagem dos conceitos e práticas que serão desenvolvidos ao longo do curso.
