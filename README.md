@@ -1,22 +1,24 @@
+### Universidade Federal do Tocantins - Campus Palmas
+
+#### Curso de bacharelado em ciência da computação
+
 # Conecte-se: desenvolvimento web para inclusão digital
 
-A internet tem se tornado uma ferramenta essencial para o desenvolvimento pessoal e profissional. A internet viabiliza a criação e o gerenciamento de conteúdo online, habilidades que se tornam cada vez mais requisitadas no mercado de trabalho. Nesse contexto, o conhecimento em HTML (HyperText Markup Language) e CSS (Cascading Style Sheets) se destaca como fundamental para aqueles que desejam construir e personalizar páginas da web, seja em nível básico ou avançado.
+## **Coordenador**: Professor Doutor Edeilson Milhomem da Silva  
 
-O domínio de HTML e CSS habilita oportunidades profissionais na área de desenvolvimento web, além de oferecer capacitação para participantes desenvolverem suas próprias plataformas online, impusionando assim naturalmente iniciativas empreendedoras, projetos pessoas e a presença digital. Aacessibilidade desses conhecimentos permite que pessoas de diversas áreas profissionais ampliem suas competências digitais, o que é especialmente relevante em um cenário de constantes mudanças e adaptação às novas tecnologias.
+A internet tem se tornado uma ferramenta essencial para o desenvolvimento pessoal e profissional. A internet viabiliza a criação e o gerenciamento de conteúdo online, habilidades que se tornam cada vez mais requisitadas no mercado de trabalho. Nesse contexto, o conhecimento em HTML (HyperText Markup Language), CSS (Cascading Style Sheets) e PHP (Hypertext Preprocessor) se destaca como fundamental para aqueles que desejam construir e personalizar páginas da web, seja em nível básico ou avançado.
 
-Este projeto de Treinamento em HTML e CSS se justifica pela necessidade de impulsionar a formação profissional e capacitada em desenvolvimento web e também pelo potencial empreendimento digital que as habilidades desenvolvida podem proporcionar.  Ao oferecer um curso estruturado, com conteúdos que abrangem desde os conceitos básicos até técnicas mais avançadas, preten-se preparar os participantes para que possam atuar de forma autônoma na construção de websites, atendendo tanto às necessidades pessoais quanto às demandas do mercado.
+O domínio de HTML, CSS e PHP habilita oportunidades profissionais na área de desenvolvimento web, além de oferecer capacitação para participantes desenvolverem suas próprias plataformas online, impusionando assim naturalmente iniciativas empreendedoras, projetos pessoas e a presença digital. Aacessibilidade desses conhecimentos permite que pessoas de diversas áreas profissionais ampliem suas competências digitais, o que é especialmente relevante em um cenário de constantes mudanças e adaptação às novas tecnologias.
+
+Este projeto de Treinamento em HTML, CSS e PHP se justifica pela necessidade de impulsionar a formação profissional e capacitada em desenvolvimento web e também pelo potencial empreendimento digital que as habilidades desenvolvida podem proporcionar.  Ao oferecer um curso estruturado, com conteúdos que abrangem desde os conceitos básicos até técnicas mais avançadas, preten-se preparar os participantes para que possam atuar de forma autônoma na construção de websites, atendendo tanto às necessidades pessoais quanto às demandas do mercado.
 
 Outro fator relevante que justifica o projeto é a redução das barreiras de entrada para aqueles que desejam ingressar na área de tecnologia, uma vez que propiciará um ambiente de aprendizagem inclusivo e acessível. Assim, o projeto visa contribuir para a diminuição das desigualdades digitais e promover o desenvolvimento de competências que são cada vez mais valorizadas no mundo contemporâneo. Destaca-se que este é um projeto vinculado ao Programa EPIC (Engajar, Praticar, Integrar e Colaborar) para a creditação de Extensão nas disciplinas de Práticas Extensionistas I, II e III do curso de Ciência da Computação, Câmpus-Palmas-UFT.
 
-## Arquitetura MVC como ferramenta da engenharia de software
+---
 
-### Universidade Federal do Tocantins - Campus Palmas
+O presente projeto contempla um treinamento online sobre HTML, CSS, JavaScript e PHP com o propósito de habilitar os participantes a desenvolverem aplicações web com PHP, por meio da aplicação da arquitetura MVC (Model-View-Controller).
 
 **Palavras chave:** programação, versionamento, git, github, engenharia de software, projeto de sistemas, php, html, css, javascript, sql
-
-**Abrangência:** Online
-
-**Unidade Geral:** Câmpus de Palmas
 
 **Unidade de Origem:** Câmpus de Palmas / Ciência da Computação
 
@@ -32,18 +34,12 @@ Outro fator relevante que justifica o projeto é a redução das barreiras de en
 
 #### **Data**: 18/12/2024  
 
-## **Orientador**: Edeilson Milhomem  
-## **Equipe**: [João Gabriel Alves de Souza](https://github.com/JoaoGabrielAlvesdeSouza1210), [Douglas Ribeiro de Sá](https://github.com/XDougSa), Larissa Mitie Curi Hirai, Fernanda Menees Plessim de Melo, [Iago Arruda Faria](https://github.com/fariaiago)  
+## **Equipe de estudantes**: [João Gabriel Alves de Souza](https://github.com/JoaoGabrielAlvesdeSouza1210), [Douglas Ribeiro de Sá](https://github.com/XDougSa), Larissa Mitie Curi Hirai, Fernanda Menees Plessim de Melo, [Iago Arruda Faria](https://github.com/fariaiago)  
 
 ---
 
 ## Sumário
-1. [Resumo](#resumo)
-2. [Justificativa](#justificativa)
-3. [Objetivos](#objetivos)
-   - [Objetivo Geral](#objetivo-geral)
-   - [Objetivo Específico](#objetivos-específicos) 
-5. [Aulas](#aulas)  
+1. [Aulas](#aulas)  
    - [Aula 1 - Introdução Geral](#aula-1---introdução-geral-panorama-e-objetivos-do-curso)  
    - [Aula 2 - Configurações Essenciais](#aula-2---configurações-essenciais-preparando-o-ambiente-de-trabalho)  
    - [Aula 3 - Explorando o HTML](#aula-3---explorando-o-html-fundamentos-e-estrutura)  
@@ -59,44 +55,9 @@ Outro fator relevante que justifica o projeto é a redução das barreiras de en
 
 ---
 
-## Resumo
-
-O projeto arquitetura MVC como ferramenta da engenharia de software, visa introduzir quaisquer interessados, na área de programação, a saber como criar seu próprio projeto utilizando da linguagem PHP com a arquitetura MVC. Ao longo do minicurso, o telespectador será instruído a como utilizar a arquitetura MVC na programação utilizando PHP, HTML, CSS, Javascript e SQL. Ao longo do curso, componentização, versionamento de código, variáveis de ambiente, token jwt e as operações CRUD no banco de dados e POST, PUT, DELETE e GET também serão abordadas. Será feita uma aplicação simples que permitirá com que todos os conceitos acima sejam aplicados. Vídeos serão gravados e postados no Youtube para que sejam de acesso livre.
-
----
-
-## Justificativa
-O desejo de aprender como criar sites e sistemas web torna-se maior a cada ano na programação. Diferentemente de antigamente onde a maioria das aplicações eram feitas para desktop ou mobile, necessitando que o cliente instalasse a aplicação em seu dispositivo, atualmente muitas aplicações são feitas para web, pois a infraestrutura permite que o sistema seja processado do lado de quem o fornece e não mais do lado do cliente.
-Até aplicações mobile são na verdade um web view de um site. Devido a isso, o minicurso pretende ensinar os conceitos básicos de programação de sistemas web ou de sites abordando o necessário para implementar o sistema ou site.
-
----
-
-## Objetivos
-
-### Objetivo Geral
-Capacitar o telespectador a criar sua primeira aplicação web com php de forma correta.
-
-### Objetivos Específicos
-
-Ensinar conceitos básicos de php;
-
-Ensinar conceitos básicos de javascript;
-
-Ensinar conceitos básicos de css;
-
-Ensinar conceitos básicos de html;
-
-Ensinar conceitos básicos de javascript;
-
-Ensinar conceitos básicos de componentização;
-
-Ensinar conceitos básicos de git e github;
-
-Ensinar conceitos básicos de seeders e migrations;
-
 ## Aulas
 
-### [Aula 1 - Introdução Geral: Panorama e Objetivos do Curso](https://www.youtube.com/watch?v=vd1XtgypvpE)
+### <a href = "https://www.youtube.com/watch?v=vd1XtgypvpE" target = "_blank"> Aula 1 - Introdução Geral: Panorama e Objetivos do Curso </a>
 #### Apresentadora: Fernanda
 Nesta aula, será apresentada uma visão geral do minicurso de engenharia desoftware com foco na arquitetura MVC. Vamos discutir os principais objetivos do
 curso, que incluem a compreensão dos fundamentos da arquitetura MVC e a aplicação desses conceitos no desenvolvimento de projetos reais. Serão abordados também os tópicos que serão explorados em cada aula, o cronograma, e os recursos disponíveis. A introdução servirá para alinhar as expectativas dos alunos e preparar o terreno para a aprendizagem dos conceitos e práticas que serão desenvolvidos ao longo do curso.
